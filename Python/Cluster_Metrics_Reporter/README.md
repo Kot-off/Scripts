@@ -481,5 +481,5 @@ logging.info(f"Script started. Log file: {log_file}")
             logging.error("No data available for presentation")
 
     logging.info("Script completed")
-		```
+
 ````
